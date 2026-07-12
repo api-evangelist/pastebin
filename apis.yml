@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://pastebin.com/doc_api
 common:
+  - type: DomainSecurity
+    url: security/pastebin-domain-security.yml
   - type: Website
     url: https://pastebin.com/doc_api
   - type: PublicAPIsListing
