@@ -27,7 +27,7 @@ description: "Plain Text Storage"
 url: https://pastebin.com/doc_api
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Cloud Storage & File Sharing"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://pastebin.com/doc_api
 common:
+  - url: https://pastebin.com/news
+    type: Blog
   - type: DomainSecurity
     url: security/pastebin-domain-security.yml
   - type: Website
