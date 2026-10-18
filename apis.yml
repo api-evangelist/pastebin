@@ -39,7 +39,8 @@ apis:
   - name: Pastebin
     description: "Plain Text Storage"
     humanURL: https://pastebin.com/doc_api
-    tags:
+    tags: []
+    tags_raw:
       - Cloud Storage And File Sharing
     properties:
       - type: Documentation
